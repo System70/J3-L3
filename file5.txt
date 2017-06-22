@@ -1,0 +1,15 @@
+test file 1
+1234567890123456789012345678901234567890
+1234567890123456789012345678901234567890
+test file 2
+**********//////////**********//////////
+//////////**********//////////**********
+test file 3
+++++++++++\\\\\\\\\\++++++++++\\\\\\\\\\
+\\\\\\\\\\++++++++++\\\\\\\\\\++++++++++
+test file 4
+qwertyuiop[]asdfghjkl;'zxcvbnm,./`-=\_+|
+|+_\=-`/.,mnbvcxz';lkjhgfdsa][poiuytrewq
+test file 5
+QWERTYUIOP{}ASDFGHJKL:"ZXCVBNM<>?~_+|-=\
+\=-|+_~?><MNBVCXZ":LKJHGFDSA}{POIUYTREWQ
